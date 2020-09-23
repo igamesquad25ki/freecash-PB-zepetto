@@ -62,7 +62,7 @@ echo "              ^~~~^~~~^  "
 sleep 0.03
 echo "  ================================"
 sleep 2
-echo "  ==       Skull Project        =="
+echo "  ==       freecashpbz      =="
 sleep 0.7
 echo "  ================================"
 echo " Skull Project adalah Tools phising "
