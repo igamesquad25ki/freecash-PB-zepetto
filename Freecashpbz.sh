@@ -128,6 +128,7 @@ else
                 echo "======================================="
                 echo " Gunakan tools dengan bijak"
                 echo " -Noname25"
+                echo " -TELAH DIAMBIL ALIH OLEH MR.BLACKJACK399"
                 echo "======================================="
             else
                 echo "Kesalahan"
