@@ -127,7 +127,7 @@ else
                 echo -e $cek_target
                 echo "======================================="
                 echo " Gunakan tools dengan bijak"
-                echo " -Noname25"
+                echo " -BLACKJACK399"
                 echo "======================================="
             else
                 echo "Kesalahan"
